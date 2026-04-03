@@ -30,7 +30,7 @@ GitHub **Star 5000+**。代表项目：[Pantheon](https://github.com/ProgrammerA
 
 ## 配图与专利证书
 
-<!-- 两列网格：每格固定高度 + object-fit: cover，缩略图长宽观感一致；GitHub 若剥离 style 则退化为按比例缩放 -->
+<!-- 两列表格；每图 max-width 440px、高 280px、object-fit: cover 统一裁切区域 -->
 <table align="center" width="100%" style="max-width: 920px; border-collapse: separate; border-spacing: 8px;">
   <tr>
     <td width="50%" align="center" valign="middle">
@@ -49,17 +49,21 @@ GitHub **Star 5000+**。代表项目：[Pantheon](https://github.com/ProgrammerA
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center" valign="middle">
+    <td colspan="2" align="center" valign="middle">
       <img src="japanpatent.jpg" alt="日本专利证书摘录" style="width: 100%; max-width: 440px; height: 280px; object-fit: cover; display: block; margin: 0 auto;" />
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="培训1.png" alt="培训现场 1" style="width: 100%; max-width: 440px; height: 280px; object-fit: cover; display: block; margin: 0 auto;" />
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="middle">
+      <img src="培训1.png" alt="培训现场 1" style="width: 100%; max-width: 440px; height: 280px; object-fit: cover; display: block; margin: 0 auto;" />
+    </td>
+    <td width="50%" align="center" valign="middle">
       <img src="培训2.png" alt="培训现场 2" style="width: 100%; max-width: 440px; height: 280px; object-fit: cover; display: block; margin: 0 auto;" />
     </td>
-    <td width="50%" align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="middle">
+      <img src="培训3.png" alt="培训现场 3 · 企政府单位培训" style="width: 100%; max-width: 440px; height: 280px; object-fit: cover; display: block; margin: 0 auto;" />
+    </td>
   </tr>
 </table>
