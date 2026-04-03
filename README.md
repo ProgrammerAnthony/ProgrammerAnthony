@@ -30,19 +30,36 @@ GitHub **Star 5000+**。代表项目：[Pantheon](https://github.com/ProgrammerA
 
 ## 配图与专利证书
 
-<p align="center">
-  <img src="writer01.png" alt="作者01" width="33%" />
-   <img src="writer03.png" alt="作者03" width="33%" />
-</p>
-
-<p align="center">
-  <img src="patent01.jpg" alt="专利汇总" width="49%" />
-  <img src="usapatent.jpg" alt="美国专利证书摘录" width="49%" />
-  <img src="japanpatent.jpg" alt="日本专利证书摘录" width="49%" />
-</p>
-
-
-<p align="center">
-  <img src="培训1.png" alt="培训1" width="49%" />
-  <img src="培训2.png" alt="培训2" width="49%" />
-</p>
+<!-- 两列网格：每格固定高度 + object-fit: cover，缩略图长宽观感一致；GitHub 若剥离 style 则退化为按比例缩放 -->
+<table align="center" width="100%" style="max-width: 920px; border-collapse: separate; border-spacing: 8px;">
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img src="writer01.png" alt="作者01" style="width: 100%; max-width: 440px; height: 280px; object-fit: cover; display: block; margin: 0 auto;" />
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img src="writer03.png" alt="作者03" style="width: 100%; max-width: 440px; height: 280px; object-fit: cover; display: block; margin: 0 auto;" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img src="patent01.jpg" alt="专利汇总" style="width: 100%; max-width: 440px; height: 280px; object-fit: cover; display: block; margin: 0 auto;" />
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img src="usapatent.jpg" alt="美国专利证书摘录" style="width: 100%; max-width: 440px; height: 280px; object-fit: cover; display: block; margin: 0 auto;" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img src="japanpatent.jpg" alt="日本专利证书摘录" style="width: 100%; max-width: 440px; height: 280px; object-fit: cover; display: block; margin: 0 auto;" />
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img src="培训1.png" alt="培训现场 1" style="width: 100%; max-width: 440px; height: 280px; object-fit: cover; display: block; margin: 0 auto;" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img src="培训2.png" alt="培训现场 2" style="width: 100%; max-width: 440px; height: 280px; object-fit: cover; display: block; margin: 0 auto;" />
+    </td>
+    <td width="50%" align="center" valign="middle">&nbsp;</td>
+  </tr>
+</table>
