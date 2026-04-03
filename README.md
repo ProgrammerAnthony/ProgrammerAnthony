@@ -31,7 +31,6 @@ GitHub **Star 5000+**。代表项目：[Pantheon](https://github.com/ProgrammerA
 
 <p align="center">
   <img src="writer01.png" alt="作者01" width="33%" />
-  <img src="writer02.png" alt="作者02" width="33%" />
    <img src="writer03.png" alt="作者03" width="33%" />
 </p>
 
