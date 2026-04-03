@@ -36,6 +36,7 @@ GitHub **Star 5000+**。代表项目：[Pantheon](https://github.com/ProgrammerA
 </p>
 
 <p align="center">
+  <img src="patent01.jpg" alt="专利汇总" width="49%" />
   <img src="usapatent.jpg" alt="美国专利证书摘录" width="49%" />
   <img src="japanpatent.jpg" alt="日本专利证书摘录" width="49%" />
 </p>
