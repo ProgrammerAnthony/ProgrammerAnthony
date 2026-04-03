@@ -58,10 +58,10 @@ GitHub **Star 5000+**。代表项目：[Pantheon](https://github.com/ProgrammerA
   </tr>
   <tr>
     <td width="50%" align="center" valign="middle">
-      <img src="培训3.png" alt="培训现场 3 · 企政府单位培训" style="width: 100%; max-width: 440px; height: 280px; object-fit: cover; display: block; margin: 0 auto;" />
+      <img src="培训3.png" alt="培训现场 3 · 企政府单位培训" style="width: 100%; max-width: 440px; height: 480px; object-fit: cover; display: block; margin: 0 auto;" />
     </td>
     <td width="50%" align="center" valign="middle">
-      <img src="培训2.png" alt="培训现场 2" style="width: 100%; max-width: 440px; height: 280px; object-fit: cover; display: block; margin: 0 auto;" />
+      <img src="培训2.png" alt="培训现场 2" style="width: 100%; max-width: 440px; height: 480px; object-fit: cover; display: block; margin: 0 auto;" />
     </td>
   </tr>
 </table>
