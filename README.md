@@ -16,7 +16,7 @@
 
 ## 专利与知识产出
 
-第一作者计算机专利 **20+**（含美国、日本及 AI 相关）；指导公司专利 **40+**。擅长技术提炼与知识转化，开源 [PatentSkills](https://github.com/ProgrammerAnthony/PatentSkills) 辅助专利自动化挖掘。
+第一作者计算机专利 **20+**（含美国、日本及 AI 相关）； 开源 [PatentSkills](https://github.com/ProgrammerAnthony/PatentSkills) 辅助专利自动化挖掘。
 
 ## 开源与影响力
 
