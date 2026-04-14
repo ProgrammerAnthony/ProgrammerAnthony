@@ -24,7 +24,7 @@ GitHub **Star 5000+**。代表项目：[Pantheon](https://github.com/ProgrammerA
 
 ## AI 时代全栈实践
 
-**90%+** 代码由 AI 辅助实现，覆盖 **Java**、**Python**、**Next.js**、**Android**、**iOS**、小程序；**PRD → 开发 → 测试** 体系化方法论，[Expert-Coding-Skills](https://github.com/ProgrammerAnthony/Expert-Coding-Skills) 覆盖 AI 开发全流程，能快速将需求落地为可交付产品。
+**90%+** 代码由 AI 辅助实现，覆盖 **Java**、**Python**、**Next.js**、**Android**、**iOS**、小程序；**PRD → 开发 → 测试** 体系化方法论，[Expert-Coding-Skills](https://github.com/ProgrammerAnthony/Expert-Coding-Harness) 覆盖 AI 开发全流程，能快速将需求落地为可交付产品。
 
 ---
 
