@@ -1,8 +1,8 @@
 # ProgrammerAnthony
 
 > **AI 工程落地 · 后端与中间件 · 专利与开源**  
-> 求职 / 合作 · Base：**成都** AI应用开发工程师 目标薪资35K+
-> 联系方式： 18380437965 cameloeanthony@gmail.com
+> 求职 / 合作 · Base：**成都** AI应用开发工程师 
+> 联系方式： 18380437965 [cameloeanthony@gmail.com](mailto:cameloeanthony@gmail.com)
 
 ---
 
@@ -17,6 +17,7 @@
 ## 专利与知识产出
 
 以第一作者提交计算机专利 20 余项（含多份美国、日本专利、AI 专利）；累计指导公司专利产出 40 余篇，个人具备较强的技术提炼与知识转化能力，开源项目 [PatentSkills](https://github.com/ProgrammerAnthony/PatentSkills) 可辅助专利自动化挖掘。
+
 
 ## 开源影响力
 
@@ -69,3 +70,4 @@ GitHub **Star 5000+**（排名靠前），维护分布式注册中心 [Pantheon]
     </td>
   </tr>
 </table>
+
