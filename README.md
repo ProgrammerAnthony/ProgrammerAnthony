@@ -21,7 +21,7 @@
 
 ## 开源影响力
 
-GitHub **Star 5000+**（排名靠前），维护分布式注册中心 [Pantheon](https://github.com/ProgrammerAnthony/Pantheon)、分布式网关 [Haafiz](https://github.com/ProgrammerAnthony/Haafiz)、大模型知识提取工具 [Anything-Extract](https://github.com/ProgrammerAnthony/Anything-Extract) 等多个开源项目；简书优秀程序员作者、掘金专栏作者、视频号 AI 领域作者。
+GitHub **Star 5000+**，维护分布式注册中心 [Pantheon](https://github.com/ProgrammerAnthony/Pantheon)、分布式网关 [Haafiz](https://github.com/ProgrammerAnthony/Haafiz)、大模型知识提取工具 [Anything-Extract](https://github.com/ProgrammerAnthony/Anything-Extract) 等多个开源项目；简书优秀程序员作者、掘金专栏作者、视频号 AI 领域作者。
 
 ## AI 时代全栈工程能力
 
